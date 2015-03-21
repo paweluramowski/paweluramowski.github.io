@@ -1,15 +1,9 @@
 name: "I am Pawel Uramowski."
-description: "Quality first"
 author: "Pawel Uramowski"
 
-url: "http://localhost:4000"
+url: "http://paweluramowski.github.io"
 
 paginate: 10
 
 markdown: rdiscount
 permalink: pretty
-
-analytics :
-  provider : google
-  google : 
-      tracking_id : 'UA-5911185-3'
