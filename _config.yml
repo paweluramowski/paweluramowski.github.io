@@ -1,0 +1,15 @@
+name: "I am Pawel Uramowski."
+description: "Quality first. Let's get in touch."
+author: "Pawel Uramowski"
+
+url: "http://localhost:4000"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-5911185-3'
