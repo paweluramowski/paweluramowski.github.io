@@ -5,4 +5,4 @@ layout: home-default
 
 # Pawel Uramowski
 
-I create test automation (Ruby/Cucumber/Calabash) at [Yoti](https://www.yoti.com), London.
+I create test automation of mobile apps  at [Yoti](https://www.yoti.com), London.
