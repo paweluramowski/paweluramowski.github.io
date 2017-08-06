@@ -5,4 +5,4 @@ layout: home-default
 
 # Pawel Uramowski
 
-I create test automation (Ruby/Cucumber/Calabash) at [Hailo](https://www.hailocab.com), London.
+I write automated tests at [Yoti](https://www.yoti.com), London.
