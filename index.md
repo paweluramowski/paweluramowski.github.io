@@ -5,4 +5,4 @@ layout: home-default
 
 # Pawel Uramowski
 
-I create test automation of mobile apps  at [Yoti](https://www.yoti.com), London.
+I write automated tests at [Yoti](https://www.yoti.com), London.
