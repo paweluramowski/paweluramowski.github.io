@@ -5,5 +5,5 @@ url: "http://paweluramowski.github.io"
 
 paginate: 10
 
-markdown: rdiscount
+markdown: kramdown
 permalink: pretty
